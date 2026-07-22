@@ -1,5 +1,2 @@
-pyrogram
-py-tgcalls
-tgcrypto
+python-telegram-bot==21.10
 python-dotenv
-ffmpeg-python
